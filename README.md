@@ -14,4 +14,5 @@ Which is better than random guassing.
 
 ## Future improvements
 More data can be gathered and results can be improved.<br/>
-Different base models can be tried like Inception. But I think, accuracy will be more oe less same.
+Different base models can be tried like Inception. But I think, accuracy will be more oe less same.<br/>
+Also, I have only trained on 10 epochs. But incresing epochs will improve accuracy a bit.
